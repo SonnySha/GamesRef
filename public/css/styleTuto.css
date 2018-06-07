@@ -1,0 +1,74 @@
+.colorCustomBackground {
+/* Anciens navigateurs */
+	background: burlywood url("colorCustomFavorite-bg.png") repeat-x top;
+	-o-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+	/* Navigateurs récents */
+	background: -webkit-gradient(
+		linear,
+		left top, right bottom,
+		from(wheat),
+		to(burlywood)
+	);
+	background: -webkit-linear-gradient(
+		left top,
+		wheat,
+		burlywood
+	);
+	background: -moz-linear-gradient(
+		left top,
+		wheat,
+		burlywood
+	);
+	background: -o-linear-gradient(
+		left top,
+		wheat,
+		burlywood
+	);
+	background: linear-gradient(
+		left top,
+		wheat,
+		burlywood
+	);
+}
+#btn-back {
+    margin-top: 20px;
+}
+
+h1 {
+    padding: 10px 10px 10px 10px;
+    color: whitesmoke;
+    background-color: gray;
+    border-top-right-radius: 25px;
+}
+
+.logo-langage {
+   
+    height: 35px;
+    width: 50px;
+    
+}
+
+.label {
+    font-size: 2em;
+    background-color: wheat;
+    color: dimgray;
+}
+
+#p-back-end {
+    margin-top: 10px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.li-methode {
+    margin-bottom: 25px;
+}
+
+
+
+

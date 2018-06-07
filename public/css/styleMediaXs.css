@@ -1,0 +1,125 @@
+#nav-console {
+    padding-left: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#background-header {
+    margin-top: 0px;
+    margin-bottom: -400px;
+}
+
+.list-label-genres {
+    padding: 0px;
+}
+
+.tab-content {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.list-nav-consoles {
+    padding: 0px;
+}
+
+#div-btn-connection-off {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.container {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#game-presentation {
+    text-align: center;
+}
+
+#btn-view-game {
+
+    order 1;
+}
+
+#btn-like {
+    order: 2;
+    
+}
+
+#area-btn-nav {
+    display: flex;
+    flex-direction: column;
+}
+
+#jumbotron-games-list {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+}
+
+#game-presentation {
+    padding: 0px;
+}
+
+.game-consoles {
+    padding: 0px;
+}
+
+.modal-badgeLike {
+    padding-left: 0px;
+    padding-right: 40px;
+}
+
+#list-description {
+    padding: 0px;
+}
+
+.ul-description-game {
+    padding-left: 25px;
+}
+
+#area-description {
+    padding: 0px;
+}
+
+#btn-nbLike {
+    margin-bottom: 15px;
+}
+
+
+
+.resume-game {
+    padding: 0px;
+}
+
+#areaComments {
+    padding: 0px;
+}
+
+.comment-textComment {
+    padding-left: 5px;
+    padding-right: 0px;   
+}
+
+.comment-avatarAuthor {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#area_description {
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 10px;
+}
+
+
+#btn-submit-commentaire {
+    margin-top: 5px;
+}
+
+#btn-nbLike-game {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
