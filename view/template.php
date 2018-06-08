@@ -197,7 +197,10 @@ require_once('controller/elementsView.php');
 
 
 
-
+            <footer>
+                <p>Ceci est un projet personnel, réalisé pour mettre en pratique des techniques de développement appris en autodidacte. Toutes les informations telles que les commentaires/likes ou les fiches techniques des jeux ne sont pas exactes.</p>
+                <p class="copyright pull-right">Réalisé par <a href="http://www.sonnyweb.fr/SonnyWebsite/">SonnyWeb</a></p>
+            </footer>
 
 
 

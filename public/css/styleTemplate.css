@@ -754,3 +754,7 @@ background: #428bca;
 #titleRealease {
     font-family: 'Krona One', sans-serif;
 }
+
+.copyright {
+    font-weight: 600;
+}
